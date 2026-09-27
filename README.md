@@ -34,6 +34,8 @@ print(file_size("/path/to/file"))
 
 MIT
 
+# TODO: add more error handling
+# TODO: consider async version
 
 # Reformatted
 
