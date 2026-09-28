@@ -1,3 +1,4 @@
+# Type hints added for clarity
 # pyutils
 
 A collection of handy Python utility scripts for everyday development tasks.
