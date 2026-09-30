@@ -49,3 +49,6 @@ MIT
 ## Changelog
 
 - small doc pass, clarified install steps
+## Changelog
+
+- small doc pass, clarified install steps
